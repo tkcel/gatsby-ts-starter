@@ -1,9 +1,9 @@
-**俺専用オレオレ Gatby テンプレートです**
+# Gatsby.js + Typescript
 
-このテンプレートは https://github.com/haysclark/gatsby-starter-typescript を元にして作りました
+参考: https://github.com/haysclark/gatsby-starter-typescript
 
 インストール方法
 
 ```
-gatsby new gatsby-starter-typescript https://github.com/YutaUra/ore-ore-gatsbyjs-template
+gatsby new <project-name> https://github.com/tkcel/gatsby-ts-starter
 ```
